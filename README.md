@@ -1,2 +1,2 @@
-# MCNNEs
-Diagnosis of Autism Spectrum Disorders in Young Children Based on Resting-State Functional Magnetic Resonance Imaging Data Using Convolutional Neural Networks
+# Diagnosis of Autism Spectrum Disorders in Young Children Based on Resting-State Functional Magnetic Resonance Imaging Data Using Convolutional Neural Networks
+Maryam Akhavan Aghdam, Arash Sharifi, Mir Mohsen Pedram. (2019). Diagnosis of Autism Spectrum Disorders in Young Children Based on Resting-State Functional Magnetic Resonance Imaging Data Using Convolutional Neural Networks. Journal of digital imaging. DOI:https://doi.org/10.1007/s10278-019-00196-1
